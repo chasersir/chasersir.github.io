@@ -1,0 +1,14 @@
+body{margin: 0; color: #333; background-color: #345; font-family: "microsoft yahei"; font-size: 12px;}
+.tt{width=300px;height=400px;}
+        /*文章区*/
+        article{padding: 20px; margin-top: 20px; background-color: #fff; box-shadow: 2px 2px 2px #aaa;}
+        article h1{font-size: 1.5em}
+        article h2{font-size: 1.3em; color: #777}
+        article .author, article .addtime{color: #999}
+        article p{text-indent: 2em; font-size: 14px;}
+#wrap {width:60%;margin:0 auto;}
+        /*表格*/
+        table{border: 0; width: 50%; border-collapse: collapse}
+        td, th{border: 0; padding: 5px; border: 1px #ccc solid; }
+        th{background: #333; color: #fff; text-align: left}
+        tr:last-child{background: #ccc; font-weight: bold}
